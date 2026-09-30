@@ -1,0 +1,16 @@
+/bin/
+/out/
+/target/
+/build/
+*.class
+
+# IDE metadata
+/.idea/
+*.iml
+/.project
+/.classpath
+/.settings/
+
+# Operating system files
+.DS_Store
+Thumbs.db
